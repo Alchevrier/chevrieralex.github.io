@@ -1,29 +1,19 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "What I would like to share"
 date:   2024-08-09 18:18:22 +0800
-categories: jekyll update
+categories: general
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+To me my journey as a Software Engineer has been full with experiences and lesson learned. From being a very energetic junior with absolutely no care in the world
+on the journey ahead of me to where I am now and a better understanding of what has been taught to me during my uni days. I feel like what I missed the most is sharing
+of information which unlocks one's mind to reach a next level of understanding. 
 
-Jekyll requires blog post files to be named according to the following format:
+As a former manager who had my share of failures and successes, there is nothing better than going into a 1:1 and figuring out what is missing to the person in front of you
+for them to have better result and then see them weeks after weeks getting dangerously closer to get you fired as they are getting much better! 
 
-`YEAR-MONTH-DAY-title.MARKUP`
+I hope that this will blog will help whoever is reading it to unblock themselves and help them reach the next level. 
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Let's not forget, we all have plateau'd mutiple times in our career and sometimes it comes because we keep doing the things we are comfortable with because they work
+but our job is not just making it work, it is also about understanding the tradeoffs and whether the decision made will impede us from reaching our long-term goals.
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Thanks for your trust and support and happy reading!

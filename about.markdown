@@ -4,15 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+My name is Alex Chevrier, a french Software Engineer based in Hong-Kong SAR China. I'm currently working as a consultant
+for an international bank on a 24/7 FX+ product. The stack I'm currently working on is Java 11, Spring Boot, Oracle SQL, 
+Websphere MQ deployed on a private cloud. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I also have experience on the front-end and was a team leader of two amazing front-end engineer, working on a back-office application
+for a reporting investment platform. We were using Typescript/Javascript, React, Webpack and deployed on Azure buckets. 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Recently my interest outside of work in the software area is around Java performance engineer and exploring how the JVM works. I would
+also like to learn how to build iOS applications with the aim of releasing some projects next year! 
 
-
-[jekyll-organization]: https://github.com/jekyll
+I spend most of my time taking care of my newborn and when I have some time spare like to indulge in some beginner calisthenics workout and video games. 
